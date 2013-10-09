@@ -5,3 +5,4 @@ target
 .settings/
 .idea
 csv-serde.iml
+dependency-reduced-pom.xml
